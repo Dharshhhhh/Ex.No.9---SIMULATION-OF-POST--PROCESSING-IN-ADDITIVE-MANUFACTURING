@@ -51,8 +51,8 @@
 ![Screenshot 2024-12-14 094544](https://github.com/user-attachments/assets/21d6178c-ca0c-49bb-bd19-57cfa19f6346)
 ![Screenshot 2024-12-14 094558](https://github.com/user-attachments/assets/c6b59446-cdfd-4715-83d0-47e197c2d225)
 
-### Name:Rabin R
-### Register Number:24900518
+### Name:Dharshini R
+### Register Number:24006560
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
